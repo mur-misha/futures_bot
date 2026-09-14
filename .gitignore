@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+ENV/
+
+# Секреты и конфиги
+.env
+*.key
+
+# Runtime данные бота (не код — не должны быть в репо)
+bot_state.json
+bot_state.json.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Тесты
+.pytest_cache/
+.coverage
+htmlcov/
+
