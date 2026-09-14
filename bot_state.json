@@ -1,0 +1,2911 @@
+{
+  "processed": {
+    "KASUSDT": 1789338000000,
+    "MEWUSDT": 1788727800000,
+    "RENDERUSDT": 1789337700000,
+    "CETUSUSDT": 1789336800000,
+    "AIOUSDT": 1789337700000,
+    "COWUSDT": 1789257300000,
+    "AEROUSDT": 1788804300000,
+    "CCUSDT": 1789336800000,
+    "AIGENSYNUSDT": 1788728400000,
+    "GALAUSDT": 1789336800000,
+    "ARKMUSDT": 1789337100000,
+    "RIFUSDT": 1788801900000,
+    "TIAUSDT": 1789337100000,
+    "USUALUSDT": 1789337700000,
+    "REDUSDT": 1789336800000,
+    "MERLUSDT": 1789252200000,
+    "XPINUSDT": 1789336800000,
+    "MANAUSDT": 1788729600000,
+    "TURBOUSDT": 1789336800000,
+    "SIGNUSDT": 1789256100000,
+    "FLOCKUSDT": 1788729300000,
+    "COLLECTUSDT": 1789255200000,
+    "SPORTFUNUSDT": 1788729300000,
+    "AZTECUSDT": 1789337400000,
+    "OGNUSDT": 1788729600000,
+    "MOVRUSDT": 1789337700000,
+    "LDOUSDT": 1789168800000,
+    "SXTUSDT": 1789337700000,
+    "ONUSDT": 1788729900000,
+    "CFGUSDT": 1789337100000,
+    "JTOUSDT": 1789336800000,
+    "ETHFIUSDT": 1789337700000,
+    "USELESSUSDT": 1788730200000,
+    "DOTUSDT": 1789236000000,
+    "RONINUSDT": 1789165500000,
+    "MITOUSDT": 1789337700000,
+    "ZECUSDT": 1789262400000,
+    "DUSKUSDT": 1789261200000,
+    "ARBUSDT": 1789336800000,
+    "VIRTUALUSDT": 1789336800000,
+    "PUMPBTCUSDT": 1789336800000,
+    "KITEUSDT": 1788730800000,
+    "THETAUSDT": 1789337700000,
+    "ZENUSDT": 1789337700000,
+    "XANUSDT": 1789255200000,
+    "MUBARAKUSDT": 1788797100000,
+    "EDGEUSDT": 1789158000000,
+    "NEARUSDT": 1789168800000,
+    "ESPORTSUSDT": 1789337700000,
+    "4USDT": 1789337100000,
+    "ESPUSDT": 1788731700000,
+    "哈基米USDT": 1789337100000,
+    "1000BONKUSDT": 1789168500000,
+    "EPICUSDT": 1788796800000,
+    "COTIUSDT": 1789338000000,
+    "MASKUSDT": 1789337700000,
+    "ORDIUSDT": 1789336800000,
+    "BEAMXUSDT": 1788737100000,
+    "CELOUSDT": 1789173900000,
+    "JOEUSDT": 1789336500000,
+    "BBUSDT": 1789336800000,
+    "DEXEUSDT": 1788732600000,
+    "ZEREBROUSDT": 1789337100000,
+    "BMTUSDT": 1789338600000,
+    "SYRUPUSDT": 1788803400000,
+    "ICNTUSDT": 1789335600000,
+    "PONSUSDT": 1789335900000,
+    "EDUUSDT": 1789112400000,
+    "BOMEUSDT": 1789336800000,
+    "TAOUSDT": 1789239000000,
+    "SONICUSDT": 1789336800000,
+    "BROCCOLI714USDT": 1788732900000,
+    "SAHARAUSDT": 1789260600000,
+    "PUMPUSDT": 1789249500000,
+    "TOWNSUSDT": 1789337700000,
+    "BTRUSDT": 1789261500000,
+    "SKRUSDT": 1789336800000,
+    "ARUSDT": 1789336800000,
+    "1000000MOGUSDT": 1788803400000,
+    "AKTUSDT": 1789338300000,
+    "ASTRUSDT": 1789337700000,
+    "JUPUSDT": 1789334100000,
+    "SPXUSDT": 1788735300000,
+    "TSTUSDT": 1789337700000,
+    "LUMIAUSDT": 1788735600000,
+    "HUMAUSDT": 1789171800000,
+    "LAYERUSDT": 1789259100000,
+    "AKEUSDT": 1788797700000,
+    "FIDAUSDT": 1789336800000,
+    "SOLVUSDT": 1789176600000,
+    "SOMIUSDT": 1789176900000,
+    "METISUSDT": 1789254900000,
+    "LAUSDT": 1789334700000,
+    "SQDUSDT": 1789248300000,
+    "LINEAUSDT": 1789172100000,
+    "CYSUSDT": 1789337400000,
+    "COOKIEUSDT": 1789337700000,
+    "BUSDT": 1789338000000,
+    "GIGGLEUSDT": 1789337700000,
+    "CATIUSDT": 1789262700000,
+    "PROMUSDT": 1789263300000,
+    "JELLYJELLYUSDT": 1789159800000,
+    "XNYUSDT": 1788796500000,
+    "ACEUSDT": 1789337400000,
+    "LISTAUSDT": 1789163700000,
+    "BICOUSDT": 1788797100000,
+    "MELANIAUSDT": 1789337700000,
+    "PLAYUSDT": 1789171200000,
+    "BCHUSDT": 1789241100000,
+    "TRBUSDT": 1788797400000,
+    "HANAUSDT": 1788797400000,
+    "CLOUSDT": 1789337700000,
+    "QTUMUSDT": 1789257900000,
+    "BTWUSDT": 1789334700000,
+    "DYDXUSDT": 1789337700000,
+    "KERNELUSDT": 1789262400000,
+    "BLUAIUSDT": 1788798900000,
+    "NEOUSDT": 1789258500000,
+    "XMRUSDT": 1789336800000,
+    "AVNTUSDT": 1789171500000,
+    "TRADOORUSDT": 1788801000000,
+    "MONUSDT": 1789163100000,
+    "INJUSDT": 1789258500000,
+    "FLOWUSDT": 1789337100000,
+    "CGPTUSDT": 1789336800000,
+    "BILLUSDT": 1789337100000,
+    "NILUSDT": 1789336800000,
+    "AVAXUSDT": 1788802800000,
+    "REZUSDT": 1788804000000,
+    "IOSTUSDT": 1789335300000,
+    "COAIUSDT": 1789337700000,
+    "1000RATSUSDT": 1789259400000,
+    "LINKUSDT": 1789336800000,
+    "FILUSDT": 1788804600000,
+    "ENSOUSDT": 1789241400000,
+    "LUNA2USDT": 1789336800000,
+    "PRLUSDT": 1789255800000,
+    "IOTXUSDT": 1789260000000,
+    "ICPUSDT": 1789336800000,
+    "IOUSDT": 1789337700000,
+    "ORCAUSDT": 1789072800000,
+    "UBUSDT": 1789337700000,
+    "RUNEUSDT": 1789163400000,
+    "KMNOUSDT": 1789337100000,
+    "ASTERUSDT": 1789173600000,
+    "METUSDT": 1789074300000,
+    "USUSDT": 1789239000000,
+    "SUSHIUSDT": 1789337700000,
+    "PROVEUSDT": 1789074600000,
+    "LSKUSDT": 1789171800000,
+    "ZRXUSDT": 1789337100000,
+    "ZETAUSDT": 1789336500000,
+    "SIRENUSDT": 1789338300000,
+    "MORPHOUSDT": 1789337700000,
+    "IDOLUSDT": 1789246200000,
+    "MANTRAUSDT": 1789337100000,
+    "ACTUSDT": 1789111800000,
+    "FOLKSUSDT": 1789111800000,
+    "BRUSDT": 1789238400000,
+    "SUPERUSDT": 1789154700000,
+    "JCTUSDT": 1789338000000,
+    "GMTUSDT": 1789156800000,
+    "VTHOUSDT": 1789156800000,
+    "TRUTHUSDT": 1789335900000,
+    "BATUSDT": 1789337100000,
+    "XPLUSDT": 1789337700000,
+    "AGLDUSDT": 1789337100000,
+    "BANANAS31USDT": 1789337700000,
+    "LIGHTUSDT": 1789158600000,
+    "BASEDUSDT": 1789159200000,
+    "EVAAUSDT": 1789262700000,
+    "CHIPUSDT": 1789337100000,
+    "BANUSDT": 1789160400000,
+    "NAORISUSDT": 1789255200000,
+    "HEMIUSDT": 1789337700000,
+    "QUSDT": 1789335600000,
+    "ALCHUSDT": 1789162500000,
+    "APTUSDT": 1789163100000,
+    "RVNUSDT": 1789163400000,
+    "PYTHUSDT": 1789251900000,
+    "SWARMSUSDT": 1789335900000,
+    "PTBUSDT": 1789337700000,
+    "FARTCOINUSDT": 1789336800000,
+    "WUSDT": 1789165500000,
+    "HOLOUSDT": 1789165500000,
+    "LYNUSDT": 1789165500000,
+    "KNCUSDT": 1789337700000,
+    "QNTUSDT": 1789335300000,
+    "WLDUSDT": 1789165800000,
+    "RAVEUSDT": 1789336800000,
+    "STARUSDT": 1789166700000,
+    "AVAAIUSDT": 1789262700000,
+    "POLUSDT": 1789167600000,
+    "AIOTUSDT": 1789259100000,
+    "SPELLUSDT": 1789262400000,
+    "PUNDIXUSDT": 1789337700000,
+    "BABYUSDT": 1789337700000,
+    "EDENUSDT": 1789169700000,
+    "BEATUSDT": 1789336800000,
+    "MYXUSDT": 1789337700000,
+    "WAXPUSDT": 1789257900000,
+    "POWRUSDT": 1789170600000,
+    "JSTUSDT": 1789170900000,
+    "BRETTUSDT": 1789171200000,
+    "BULLAUSDT": 1789262100000,
+    "ZKCUSDT": 1789336800000,
+    "GENIUSUSDT": 1789337100000,
+    "OUSDT": 1789171200000,
+    "STBLUSDT": 1789338300000,
+    "ZBTUSDT": 1789337100000,
+    "BLURUSDT": 1789171800000,
+    "BIOUSDT": 1789337700000,
+    "PEOPLEUSDT": 1789336800000,
+    "YGGUSDT": 1789337700000,
+    "MOCAUSDT": 1789255500000,
+    "CARVUSDT": 1789337700000,
+    "INXUSDT": 1789172400000,
+    "ONEUSDT": 1789337700000,
+    "AVAUSDT": 1789338000000,
+    "POWERUSDT": 1789173000000,
+    "GUAUSDT": 1789173000000,
+    "ACUUSDT": 1789251900000,
+    "ALICEUSDT": 1789336800000,
+    "ARKUSDT": 1789254300000,
+    "ENJUSDT": 1789337400000,
+    "GASUSDT": 1789337700000,
+    "CVCUSDT": 1789258800000,
+    "FLUIDUSDT": 1789173600000,
+    "KGENUSDT": 1789173600000,
+    "DOODUSDT": 1789336200000,
+    "FIGHTUSDT": 1789336800000,
+    "ORDERUSDT": 1789258200000,
+    "CHRUSDT": 1789337700000,
+    "TAGUSDT": 1789174500000,
+    "CELRUSDT": 1789261800000,
+    "WLFIUSDT": 1789174800000,
+    "NIGHTUSDT": 1789337100000,
+    "MMTUSDT": 1789175100000,
+    "BREVUSDT": 1789175700000,
+    "ZORAUSDT": 1789336800000,
+    "BIGTIMEUSDT": 1789336800000,
+    "API3USDT": 1789176600000,
+    "CHILLGUYUSDT": 1789336800000,
+    "CVXUSDT": 1789177500000,
+    "REUSDT": 1789337100000,
+    "TLMUSDT": 1789231500000,
+    "FUSDT": 1789337700000,
+    "ZAMAUSDT": 1789231500000,
+    "C98USDT": 1789337100000,
+    "CKBUSDT": 1789336800000,
+    "MEMEUSDT": 1789336800000,
+    "XVGUSDT": 1789259400000,
+    "BANDUSDT": 1789337700000,
+    "SAGAUSDT": 1789335900000,
+    "ARIAUSDT": 1789261500000,
+    "ETHWUSDT": 1789337400000,
+    "EIGENUSDT": 1789236000000,
+    "ARPAUSDT": 1789236300000,
+    "MOVEUSDT": 1789236600000,
+    "0GUSDT": 1789236600000,
+    "GRASSUSDT": 1789237200000,
+    "CAPUSDT": 1789338300000,
+    "ACHUSDT": 1789336800000,
+    "XTZUSDT": 1789245300000,
+    "FHEUSDT": 1789263300000,
+    "RPLUSDT": 1789261200000,
+    "PARTIUSDT": 1789337700000,
+    "VETUSDT": 1789241400000,
+    "1000LUNCUSDT": 1789336800000,
+    "DASHUSDT": 1789336800000,
+    "BIRBUSDT": 1789337400000,
+    "CHZUSDT": 1789337400000,
+    "BERAUSDT": 1789336800000,
+    "OPENUSDT": 1789336800000,
+    "FFUSDT": 1789334700000,
+    "AXSUSDT": 1789242600000,
+    "CYBERUSDT": 1789338300000,
+    "HUSDT": 1789243200000,
+    "FLUXUSDT": 1789243500000,
+    "WOOUSDT": 1789336800000,
+    "RECALLUSDT": 1789336800000,
+    "TACUSDT": 1789245600000,
+    "KSMUSDT": 1789245900000,
+    "UMAUSDT": 1789337700000,
+    "SCRUSDT": 1789260600000,
+    "VELVETUSDT": 1789248300000,
+    "KAVAUSDT": 1789262400000,
+    "DOGSUSDT": 1789336800000,
+    "APEUSDT": 1789336800000,
+    "BSBUSDT": 1789250400000,
+    "AGTUSDT": 1789337700000,
+    "OPUSDT": 1789336800000,
+    "TUTUSDT": 1789337700000,
+    "USTCUSDT": 1789337700000,
+    "ATOMUSDT": 1789254000000,
+    "HIVEUSDT": 1789254300000,
+    "ALTUSDT": 1789254900000,
+    "DRIFTUSDT": 1789336800000,
+    "IRYSUSDT": 1789263600000,
+    "CTSIUSDT": 1789255800000,
+    "POLYXUSDT": 1789256400000,
+    "NXPCUSDT": 1789256700000,
+    "TOSHIUSDT": 1789257600000,
+    "STABLEUSDT": 1789257600000,
+    "SLXUSDT": 1789257600000,
+    "1000XECUSDT": 1789338000000,
+    "GLMUSDT": 1789257900000,
+    "SAPIENUSDT": 1789257900000,
+    "AUSDT": 1789258200000,
+    "INUSDT": 1789258200000,
+    "SSVUSDT": 1789336800000,
+    "GUSDT": 1789258800000,
+    "TREEUSDT": 1789338000000,
+    "ZROUSDT": 1789336800000,
+    "1000CATUSDT": 1789338300000,
+    "ERAUSDT": 1789259400000,
+    "ROSEUSDT": 1789260300000,
+    "VANAUSDT": 1789336800000,
+    "ATHUSDT": 1789336800000,
+    "DYMUSDT": 1789260600000,
+    "CROSSUSDT": 1789261200000,
+    "PHAROSUSDT": 1789261200000,
+    "ZILUSDT": 1789261500000,
+    "BSVUSDT": 1789261500000,
+    "TAKEUSDT": 1789261500000,
+    "AUCTIONUSDT": 1789337700000,
+    "IOTAUSDT": 1789336800000,
+    "MIRAUSDT": 1789262700000,
+    "PIXELUSDT": 1789263000000,
+    "BELUSDT": 1789263300000,
+    "APRUSDT": 1789338300000,
+    "RAYSOLUSDT": 1789335900000,
+    "RIVERUSDT": 1789336800000,
+    "LTCUSDT": 1789336800000,
+    "ETCUSDT": 1789337400000,
+    "XLMUSDT": 1789336800000,
+    "ONTUSDT": 1789336800000,
+    "DOGEUSDT": 1789336800000,
+    "YFIUSDT": 1789337700000,
+    "AAVEUSDT": 1789336800000,
+    "GRTUSDT": 1789336800000,
+    "SFPUSDT": 1789336800000,
+    "HOTUSDT": 1789336800000,
+    "1000SHIBUSDT": 1789336800000,
+    "LPTUSDT": 1789336800000,
+    "ENSUSDT": 1789337100000,
+    "IMXUSDT": 1789336800000,
+    "MAGICUSDT": 1789336800000,
+    "SUIUSDT": 1789337700000,
+    "1000PEPEUSDT": 1789336800000,
+    "1000FLOKIUSDT": 1789336800000,
+    "SEIUSDT": 1789336800000,
+    "1000SATSUSDT": 1789337700000,
+    "ONDOUSDT": 1789336800000,
+    "STRKUSDT": 1789337400000,
+    "AEVOUSDT": 1789336800000,
+    "ENAUSDT": 1789336800000,
+    "NOTUSDT": 1789336800000,
+    "BANANAUSDT": 1789336800000,
+    "NEIROUSDT": 1789337100000,
+    "HMSTRUSDT": 1789336800000,
+    "MOODENGUSDT": 1789336800000,
+    "THEUSDT": 1789336800000,
+    "MEUSDT": 1789336800000,
+    "PENGUUSDT": 1789337700000,
+    "AIXBTUSDT": 1789336800000,
+    "PHAUSDT": 1789336800000,
+    "SUSDT": 1789338300000,
+    "FORMUSDT": 1789337700000,
+    "PROMPTUSDT": 1789336800000,
+    "OGUSDT": 1789336800000,
+    "SOONUSDT": 1789337100000,
+    "SOPHUSDT": 1789337700000,
+    "NEWTUSDT": 1789338000000,
+    "TAUSDT": 1789336800000,
+    "SLPUSDT": 1789336800000,
+    "NOMUSDT": 1789337100000,
+    "TURTLEUSDT": 1789336800000,
+    "UAIUSDT": 1789336800000,
+    "SPACEUSDT": 1789336800000,
+    "OPNUSDT": 1789336800000,
+    "RLCUSDT": 1789337700000,
+    "RSRUSDT": 1789337100000,
+    "GMXUSDT": 1789337100000,
+    "CFXUSDT": 1789337100000,
+    "IDUSDT": 1789337100000,
+    "PLUMEUSDT": 1789337100000,
+    "ALLUSDT": 1789337100000,
+    "MEGAUSDT": 1789337100000,
+    "KATUSDT": 1789337100000,
+    "ARXUSDT": 1789337100000,
+    "MARSCOINUSDT": 1789337100000,
+    "COMPUSDT": 1789337700000,
+    "SNXUSDT": 1789338300000,
+    "EGLDUSDT": 1789338300000,
+    "STGUSDT": 1789337700000,
+    "XVSUSDT": 1789337700000,
+    "PENDLEUSDT": 1789337700000,
+    "XAIUSDT": 1789337700000,
+    "MANTAUSDT": 1789337700000,
+    "HEIUSDT": 1789337700000,
+    "STOUSDT": 1789337700000,
+    "WCTUSDT": 1789337700000,
+    "CTKUSDT": 1789337700000,
+    "RESOLVUSDT": 1789337700000,
+    "TAIKOUSDT": 1789337700000,
+    "TRUSTUSDT": 1789337700000,
+    "FRAXUSDT": 1789337700000,
+    "GWEIUSDT": 1789337700000,
+    "GRVTUSDT": 1789337700000,
+    "MTLUSDT": 1789338000000,
+    "BROCCOLIF3BUSDT": 1789338000000,
+    "BLESSUSDT": 1789338000000,
+    "ZESTUSDT": 1789338000000,
+    "ATUSDT": 1789338600000
+  },
+  "last_alert": {
+    "KASUSDT": {
+      "candle_time": 1789338000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338364.1189299
+    },
+    "MEWUSDT": {
+      "candle_time": 1788727800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788728403.6836631
+    },
+    "RENDERUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9655292
+    },
+    "CETUSUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.614188
+    },
+    "AIOUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.970541
+    },
+    "COWUSDT": {
+      "candle_time": 1789257300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789257689.961924
+    },
+    "AEROUSDT": {
+      "candle_time": 1788804300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788804668.593902
+    },
+    "CCUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.61851
+    },
+    "AIGENSYNUSDT": {
+      "candle_time": 1788728400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788728768.675922
+    },
+    "GALAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6079628
+    },
+    "ARKMUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "STRONG",
+      "sent_at": 1789337164.611443
+    },
+    "RIFUSDT": {
+      "candle_time": 1788801900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788802268.8213298
+    },
+    "TIAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6118221
+    },
+    "USUALUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.966146
+    },
+    "REDUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6158879
+    },
+    "MERLUSDT": {
+      "candle_time": 1789252200000,
+      "direction": "DOWN",
+      "strength": "STRONG",
+      "sent_at": 1789252585.832554
+    },
+    "XPINUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.617901
+    },
+    "MANAUSDT": {
+      "candle_time": 1788729300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788729665.055716
+    },
+    "TURBOUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.613193
+    },
+    "SIGNUSDT": {
+      "candle_time": 1789256100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789256487.945471
+    },
+    "FLOCKUSDT": {
+      "candle_time": 1788729300000,
+      "direction": "UP",
+      "strength": "STRONG",
+      "sent_at": 1788729665.7245271
+    },
+    "COLLECTUSDT": {
+      "candle_time": 1789255200000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789255588.876715
+    },
+    "SPORTFUNUSDT": {
+      "candle_time": 1788729300000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788729672.201134
+    },
+    "AZTECUSDT": {
+      "candle_time": 1789337400000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337767.992987
+    },
+    "OGNUSDT": {
+      "candle_time": 1788729600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788729965.771116
+    },
+    "MOVRUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9646358
+    },
+    "LDOUSDT": {
+      "candle_time": 1789168800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789169163.372718
+    },
+    "SXTUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.968329
+    },
+    "ONUSDT": {
+      "candle_time": 1788729900000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788730268.173695
+    },
+    "CFGUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.619238
+    },
+    "JTOUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.612093
+    },
+    "ETHFIUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.964972
+    },
+    "USELESSUSDT": {
+      "candle_time": 1788730200000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788730565.854217
+    },
+    "DOTUSDT": {
+      "candle_time": 1789236000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789236366.0759912
+    },
+    "RONINUSDT": {
+      "candle_time": 1789165500000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789165864.175835
+    },
+    "MITOUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9708202
+    },
+    "ZECUSDT": {
+      "candle_time": 1789262400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789262788.6531332
+    },
+    "DUSKUSDT": {
+      "candle_time": 1789260600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789260988.681949
+    },
+    "ARBUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.61118
+    },
+    "VIRTUALUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6145432
+    },
+    "PUMPBTCUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.61677
+    },
+    "KITEUSDT": {
+      "candle_time": 1788730800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788731171.461974
+    },
+    "THETAUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9615638
+    },
+    "ZENUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9629052
+    },
+    "XANUSDT": {
+      "candle_time": 1789255200000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789255588.876605
+    },
+    "MUBARAKUSDT": {
+      "candle_time": 1788797100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788797468.428232
+    },
+    "EDGEUSDT": {
+      "candle_time": 1789158000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789158365.384275
+    },
+    "NEARUSDT": {
+      "candle_time": 1789168800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789169163.372593
+    },
+    "ESPORTSUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.97027
+    },
+    "4USDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.6123571
+    },
+    "ESPUSDT": {
+      "candle_time": 1788731700000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788732067.2911098
+    },
+    "哈基米USDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.613208
+    },
+    "1000BONKUSDT": {
+      "candle_time": 1789168500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789168862.969567
+    },
+    "EPICUSDT": {
+      "candle_time": 1788796800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788797167.859352
+    },
+    "COTIUSDT": {
+      "candle_time": 1789338000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338364.11863
+    },
+    "MASKUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.963396
+    },
+    "ORDIUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.612028
+    },
+    "BEAMXUSDT": {
+      "candle_time": 1788737100000,
+      "direction": "UP",
+      "strength": "STRONG",
+      "sent_at": 1788737466.125747
+    },
+    "CELOUSDT": {
+      "candle_time": 1789173900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789174260.760412
+    },
+    "JOEUSDT": {
+      "candle_time": 1789336500000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789336870.6748302
+    },
+    "BBUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6129248
+    },
+    "DEXEUSDT": {
+      "candle_time": 1788732600000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788732966.0166101
+    },
+    "ZEREBROUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.615488
+    },
+    "BMTUSDT": {
+      "candle_time": 1789338600000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338965.09192
+    },
+    "SYRUPUSDT": {
+      "candle_time": 1788803400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788803768.3543098
+    },
+    "ICNTUSDT": {
+      "candle_time": 1789335600000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789335966.14138
+    },
+    "PONSUSDT": {
+      "candle_time": 1789335900000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789336265.756375
+    },
+    "EDUUSDT": {
+      "candle_time": 1789112400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789112764.788875
+    },
+    "BOMEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.612745
+    },
+    "TAOUSDT": {
+      "candle_time": 1789239000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789239374.13278
+    },
+    "SONICUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.615572
+    },
+    "BROCCOLI714USDT": {
+      "candle_time": 1788732900000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788733269.149079
+    },
+    "SAHARAUSDT": {
+      "candle_time": 1789260600000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789260988.682708
+    },
+    "PUMPUSDT": {
+      "candle_time": 1789249500000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789249885.4682088
+    },
+    "TOWNSUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.970361
+    },
+    "BTRUSDT": {
+      "candle_time": 1789261500000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789261897.6905541
+    },
+    "SKRUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.618779
+    },
+    "ARUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6080241
+    },
+    "1000000MOGUSDT": {
+      "candle_time": 1788803400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788803768.085105
+    },
+    "AKTUSDT": {
+      "candle_time": 1789338300000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338665.648951
+    },
+    "ASTRUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.963676
+    },
+    "JUPUSDT": {
+      "candle_time": 1789334100000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789334506.157793
+    },
+    "SPXUSDT": {
+      "candle_time": 1788735300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788735665.87551
+    },
+    "TSTUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9671948
+    },
+    "LUMIAUSDT": {
+      "candle_time": 1788735600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788735965.947378
+    },
+    "HUMAUSDT": {
+      "candle_time": 1789171800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789172163.128953
+    },
+    "LAYERUSDT": {
+      "candle_time": 1789259100000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789259489.275862
+    },
+    "AKEUSDT": {
+      "candle_time": 1788797700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788798072.174832
+    },
+    "FIDAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.613709
+    },
+    "SOLVUSDT": {
+      "candle_time": 1789176600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789176958.913012
+    },
+    "SOMIUSDT": {
+      "candle_time": 1789176900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789177259.683299
+    },
+    "METISUSDT": {
+      "candle_time": 1789254900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789255285.525609
+    },
+    "LAUSDT": {
+      "candle_time": 1789334700000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789335064.574181
+    },
+    "SQDUSDT": {
+      "candle_time": 1789248300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789248684.001388
+    },
+    "LINEAUSDT": {
+      "candle_time": 1789172100000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789172476.324283
+    },
+    "CYSUSDT": {
+      "candle_time": 1789337400000,
+      "direction": "DOWN",
+      "strength": "STRONG",
+      "sent_at": 1789337767.991591
+    },
+    "COOKIEUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9667
+    },
+    "BUSDT": {
+      "candle_time": 1789338000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338364.119286
+    },
+    "GIGGLEUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9711869
+    },
+    "CATIUSDT": {
+      "candle_time": 1789262700000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789263086.7015738
+    },
+    "PROMUSDT": {
+      "candle_time": 1789263300000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789263697.213712
+    },
+    "JELLYJELLYUSDT": {
+      "candle_time": 1789159800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789160160.769964
+    },
+    "XNYUSDT": {
+      "candle_time": 1788796500000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788796866.698066
+    },
+    "ACEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6123142
+    },
+    "LISTAUSDT": {
+      "candle_time": 1789163700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789164060.3632169
+    },
+    "BICOUSDT": {
+      "candle_time": 1788797100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788797468.052514
+    },
+    "MELANIAUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.966781
+    },
+    "PLAYUSDT": {
+      "candle_time": 1789171200000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789171562.973066
+    },
+    "BCHUSDT": {
+      "candle_time": 1789241100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789241476.40208
+    },
+    "TRBUSDT": {
+      "candle_time": 1788797400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788797769.595457
+    },
+    "HANAUSDT": {
+      "candle_time": 1788797400000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788797769.955464
+    },
+    "CLOUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9714408
+    },
+    "QTUMUSDT": {
+      "candle_time": 1789257900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789258288.810246
+    },
+    "BTWUSDT": {
+      "candle_time": 1789334700000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789335064.574442
+    },
+    "DYDXUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.963444
+    },
+    "KERNELUSDT": {
+      "candle_time": 1789262400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789262788.6540291
+    },
+    "BLUAIUSDT": {
+      "candle_time": 1788798900000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788799269.1613498
+    },
+    "NEOUSDT": {
+      "candle_time": 1789258500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789258888.1166809
+    },
+    "XMRUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6044328
+    },
+    "AVNTUSDT": {
+      "candle_time": 1789171500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789171874.519572
+    },
+    "TRADOORUSDT": {
+      "candle_time": 1788801000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788801373.7207859
+    },
+    "MONUSDT": {
+      "candle_time": 1789163100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789163459.786703
+    },
+    "INJUSDT": {
+      "candle_time": 1789258500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789258888.12097
+    },
+    "FLOWUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.6113229
+    },
+    "CGPTUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6153548
+    },
+    "BILLUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.613076
+    },
+    "NILUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.616137
+    },
+    "AVAXUSDT": {
+      "candle_time": 1788802800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1788803167.1703198
+    },
+    "REZUSDT": {
+      "candle_time": 1788803700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788804068.246586
+    },
+    "IOSTUSDT": {
+      "candle_time": 1789335300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789335668.84965
+    },
+    "COAIUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.971157
+    },
+    "1000RATSUSDT": {
+      "candle_time": 1789259100000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789259489.275785
+    },
+    "LINKUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.604245
+    },
+    "FILUSDT": {
+      "candle_time": 1788804600000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1788804968.954046
+    },
+    "ENSOUSDT": {
+      "candle_time": 1789241400000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789241775.7573388
+    },
+    "LUNA2USDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.610108
+    },
+    "PRLUSDT": {
+      "candle_time": 1789255800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789256188.150502
+    },
+    "IOTXUSDT": {
+      "candle_time": 1789260000000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789260389.921364
+    },
+    "ICPUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.610386
+    },
+    "IOUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.965454
+    },
+    "ORCAUSDT": {
+      "candle_time": 1789072800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789073166.804328
+    },
+    "UBUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.971116
+    },
+    "RUNEUSDT": {
+      "candle_time": 1789163400000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789163760.1775029
+    },
+    "KMNOUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.612212
+    },
+    "ASTERUSDT": {
+      "candle_time": 1789173600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789173958.7749178
+    },
+    "METUSDT": {
+      "candle_time": 1789074300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789074661.9311738
+    },
+    "USUSDT": {
+      "candle_time": 1789239000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789239374.1328142
+    },
+    "SUSHIUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.962799
+    },
+    "PROVEUSDT": {
+      "candle_time": 1789074600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789074961.429794
+    },
+    "LSKUSDT": {
+      "candle_time": 1789171800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789172163.12884
+    },
+    "ZRXUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.61102
+    },
+    "ZETAUSDT": {
+      "candle_time": 1789336500000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789336870.674874
+    },
+    "SIRENUSDT": {
+      "candle_time": 1789338300000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338665.648988
+    },
+    "MORPHOUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.965597
+    },
+    "IDOLUSDT": {
+      "candle_time": 1789246200000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789246572.9268942
+    },
+    "MANTRAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.619133
+    },
+    "ACTUSDT": {
+      "candle_time": 1789111800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789112164.6771042
+    },
+    "FOLKSUSDT": {
+      "candle_time": 1789111800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789112164.677165
+    },
+    "BRUSDT": {
+      "candle_time": 1789238400000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789238779.5493069
+    },
+    "SUPERUSDT": {
+      "candle_time": 1789154700000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789155141.169409
+    },
+    "JCTUSDT": {
+      "candle_time": 1789338000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338364.120343
+    },
+    "GMTUSDT": {
+      "candle_time": 1789156800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789157159.8753579
+    },
+    "VTHOUSDT": {
+      "candle_time": 1789156800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789157159.875406
+    },
+    "TRUTHUSDT": {
+      "candle_time": 1789335900000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789336265.7562392
+    },
+    "BATUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.610976
+    },
+    "XPLUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.970575
+    },
+    "AGLDUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.611604
+    },
+    "BANANAS31USDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.967916
+    },
+    "LIGHTUSDT": {
+      "candle_time": 1789158600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789158961.1310358
+    },
+    "BASEDUSDT": {
+      "candle_time": 1789159200000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789159575.550737
+    },
+    "EVAAUSDT": {
+      "candle_time": 1789262700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789263086.7033641
+    },
+    "CHIPUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.612881
+    },
+    "BANUSDT": {
+      "candle_time": 1789160400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789160766.9844391
+    },
+    "NAORISUSDT": {
+      "candle_time": 1789255200000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789255588.876141
+    },
+    "HEMIUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.970857
+    },
+    "QUSDT": {
+      "candle_time": 1789335600000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789335966.141461
+    },
+    "ALCHUSDT": {
+      "candle_time": 1789162500000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789162859.47926
+    },
+    "APTUSDT": {
+      "candle_time": 1789163100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789163459.786165
+    },
+    "RVNUSDT": {
+      "candle_time": 1789163400000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789163760.177706
+    },
+    "PYTHUSDT": {
+      "candle_time": 1789251900000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789252285.422368
+    },
+    "SWARMSUSDT": {
+      "candle_time": 1789335900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789336265.756193
+    },
+    "PTBUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.970906
+    },
+    "FARTCOINUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6151192
+    },
+    "WUSDT": {
+      "candle_time": 1789165500000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789165864.175874
+    },
+    "HOLOUSDT": {
+      "candle_time": 1789165500000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789165864.175961
+    },
+    "LYNUSDT": {
+      "candle_time": 1789165500000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789165864.176058
+    },
+    "KNCUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.961636
+    },
+    "QNTUSDT": {
+      "candle_time": 1789335300000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789335668.849791
+    },
+    "WLDUSDT": {
+      "candle_time": 1789165800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789166163.0830028
+    },
+    "RAVEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6187341
+    },
+    "STARUSDT": {
+      "candle_time": 1789166700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789167064.452092
+    },
+    "AVAAIUSDT": {
+      "candle_time": 1789262700000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789263086.7017899
+    },
+    "POLUSDT": {
+      "candle_time": 1789167600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789167960.114721
+    },
+    "AIOTUSDT": {
+      "candle_time": 1789259100000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789259489.276042
+    },
+    "SPELLUSDT": {
+      "candle_time": 1789262400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789262788.6533718
+    },
+    "PUNDIXUSDT": {
+      "candle_time": 1789337400000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337767.990595
+    },
+    "BABYUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.968066
+    },
+    "EDENUSDT": {
+      "candle_time": 1789169700000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789170062.917592
+    },
+    "BEATUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.618579
+    },
+    "MYXUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.970082
+    },
+    "WAXPUSDT": {
+      "candle_time": 1789257900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789258288.810673
+    },
+    "POWRUSDT": {
+      "candle_time": 1789170600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789171009.6750531
+    },
+    "JSTUSDT": {
+      "candle_time": 1789170900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789171263.975411
+    },
+    "BRETTUSDT": {
+      "candle_time": 1789171200000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789171562.972804
+    },
+    "BULLAUSDT": {
+      "candle_time": 1789262100000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789262499.160786
+    },
+    "ZKCUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6179461
+    },
+    "GENIUSUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.61285
+    },
+    "OUSDT": {
+      "candle_time": 1789171200000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789171562.973519
+    },
+    "STBLUSDT": {
+      "candle_time": 1789338300000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338665.649079
+    },
+    "ZBTUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.612463
+    },
+    "BLURUSDT": {
+      "candle_time": 1789171800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789172163.128768
+    },
+    "BIOUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.966617
+    },
+    "PEOPLEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.609496
+    },
+    "YGGUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.964034
+    },
+    "MOCAUSDT": {
+      "candle_time": 1789255500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789255889.184005
+    },
+    "CARVUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.970509
+    },
+    "INXUSDT": {
+      "candle_time": 1789172400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789172760.0957801
+    },
+    "ONEUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.963138
+    },
+    "AVAUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.966004
+    },
+    "POWERUSDT": {
+      "candle_time": 1789173000000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789173358.26836
+    },
+    "GUAUSDT": {
+      "candle_time": 1789173000000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789173358.268395
+    },
+    "ACUUSDT": {
+      "candle_time": 1789251900000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789252285.422935
+    },
+    "ALICEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.607235
+    },
+    "ARKUSDT": {
+      "candle_time": 1789254300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789254687.4762518
+    },
+    "ENJUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.606564
+    },
+    "GASUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9642901
+    },
+    "CVCUSDT": {
+      "candle_time": 1789258800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789259188.4325519
+    },
+    "FLUIDUSDT": {
+      "candle_time": 1789173600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789173958.774967
+    },
+    "KGENUSDT": {
+      "candle_time": 1789173600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789173958.7772942
+    },
+    "DOODUSDT": {
+      "candle_time": 1789336200000,
+      "direction": "UP",
+      "strength": "STRONG",
+      "sent_at": 1789336566.373064
+    },
+    "FIGHTUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.618966
+    },
+    "ORDERUSDT": {
+      "candle_time": 1789257900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789258288.811384
+    },
+    "CHRUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.963084
+    },
+    "TAGUSDT": {
+      "candle_time": 1789174500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789174860.667264
+    },
+    "CELRUSDT": {
+      "candle_time": 1789261800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789262193.440414
+    },
+    "WLFIUSDT": {
+      "candle_time": 1789174800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789175161.67537
+    },
+    "NIGHTUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.612501
+    },
+    "MMTUSDT": {
+      "candle_time": 1789175100000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789175460.433048
+    },
+    "BREVUSDT": {
+      "candle_time": 1789175700000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789176060.9036539
+    },
+    "ZORAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.617345
+    },
+    "BIGTIMEUSDT": {
+      "candle_time": 1789335900000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789336265.755169
+    },
+    "API3USDT": {
+      "candle_time": 1789176600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789176958.9127948
+    },
+    "CHILLGUYUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.614469
+    },
+    "CVXUSDT": {
+      "candle_time": 1789177500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789177861.969111
+    },
+    "REUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.613114
+    },
+    "TLMUSDT": {
+      "candle_time": 1789231500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789231890.6430452
+    },
+    "FUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.970159
+    },
+    "ZAMAUSDT": {
+      "candle_time": 1789231500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789231890.643147
+    },
+    "C98USDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.611264
+    },
+    "CKBUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.611024
+    },
+    "MEMEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.611871
+    },
+    "XVGUSDT": {
+      "candle_time": 1789259400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789259787.4835799
+    },
+    "BANDUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.961715
+    },
+    "SAGAUSDT": {
+      "candle_time": 1789335900000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789336265.7555242
+    },
+    "ARIAUSDT": {
+      "candle_time": 1789261500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789261897.6905909
+    },
+    "ETHWUSDT": {
+      "candle_time": 1789337400000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337767.9904299
+    },
+    "EIGENUSDT": {
+      "candle_time": 1789236000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789236366.07615
+    },
+    "ARPAUSDT": {
+      "candle_time": 1789236300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789236668.7060091
+    },
+    "MOVEUSDT": {
+      "candle_time": 1789236600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789236968.655469
+    },
+    "0GUSDT": {
+      "candle_time": 1789236600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789236968.655568
+    },
+    "GRASSUSDT": {
+      "candle_time": 1789237200000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789237579.0169868
+    },
+    "CAPUSDT": {
+      "candle_time": 1789338300000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338665.649655
+    },
+    "ACHUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6108642
+    },
+    "XTZUSDT": {
+      "candle_time": 1789245300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789245672.509713
+    },
+    "FHEUSDT": {
+      "candle_time": 1789263300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789263697.213815
+    },
+    "RPLUSDT": {
+      "candle_time": 1789261200000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789261588.672259
+    },
+    "PARTIUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9680011
+    },
+    "VETUSDT": {
+      "candle_time": 1789241400000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789241775.756979
+    },
+    "1000LUNCUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.609903
+    },
+    "DASHUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.604491
+    },
+    "BIRBUSDT": {
+      "candle_time": 1789337400000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337767.991761
+    },
+    "CHZUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.607008
+    },
+    "BERAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.61583
+    },
+    "OPENUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.617734
+    },
+    "FFUSDT": {
+      "candle_time": 1789334700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789335064.574259
+    },
+    "AXSUSDT": {
+      "candle_time": 1789242600000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789242975.7177
+    },
+    "CYBERUSDT": {
+      "candle_time": 1789338300000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338665.6488478
+    },
+    "HUSDT": {
+      "candle_time": 1789243200000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789243568.6143339
+    },
+    "FLUXUSDT": {
+      "candle_time": 1789243500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789243874.061305
+    },
+    "WOOUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.609689
+    },
+    "RECALLUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.618369
+    },
+    "TACUSDT": {
+      "candle_time": 1789245600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789245977.005056
+    },
+    "KSMUSDT": {
+      "candle_time": 1789245900000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789246286.999016
+    },
+    "UMAUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9639559
+    },
+    "SCRUSDT": {
+      "candle_time": 1789260600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789260988.682453
+    },
+    "VELVETUSDT": {
+      "candle_time": 1789248300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789248684.0062752
+    },
+    "KAVAUSDT": {
+      "candle_time": 1789262400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789262788.653237
+    },
+    "DOGSUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.613591
+    },
+    "APEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.609609
+    },
+    "BSBUSDT": {
+      "candle_time": 1789250400000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789250786.999362
+    },
+    "AGTUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9683971
+    },
+    "OPUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.609791
+    },
+    "TUTUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9678369
+    },
+    "USTCUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.964344
+    },
+    "ATOMUSDT": {
+      "candle_time": 1789254000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789254386.0176399
+    },
+    "HIVEUSDT": {
+      "candle_time": 1789254300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789254687.476374
+    },
+    "ALTUSDT": {
+      "candle_time": 1789254900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789255285.5253131
+    },
+    "DRIFTUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6142468
+    },
+    "IRYSUSDT": {
+      "candle_time": 1789263600000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789263995.5241668
+    },
+    "CTSIUSDT": {
+      "candle_time": 1789255500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789255889.183722
+    },
+    "POLYXUSDT": {
+      "candle_time": 1789256400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789256787.2880619
+    },
+    "NXPCUSDT": {
+      "candle_time": 1789256700000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789257086.814194
+    },
+    "TOSHIUSDT": {
+      "candle_time": 1789257600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789257988.749099
+    },
+    "STABLEUSDT": {
+      "candle_time": 1789257600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789257988.749274
+    },
+    "SLXUSDT": {
+      "candle_time": 1789257600000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789257988.749312
+    },
+    "1000XECUSDT": {
+      "candle_time": 1789338000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338364.1188421
+    },
+    "GLMUSDT": {
+      "candle_time": 1789257900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789258288.811247
+    },
+    "SAPIENUSDT": {
+      "candle_time": 1789257900000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789258288.811324
+    },
+    "AUSDT": {
+      "candle_time": 1789258200000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789258589.4894772
+    },
+    "INUSDT": {
+      "candle_time": 1789258200000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789258589.489516
+    },
+    "SSVUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.610952
+    },
+    "GUSDT": {
+      "candle_time": 1789258800000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789259188.4324338
+    },
+    "TREEUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.970316
+    },
+    "ZROUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.613305
+    },
+    "1000CATUSDT": {
+      "candle_time": 1789338300000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338665.6488938
+    },
+    "ERAUSDT": {
+      "candle_time": 1789259400000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789259787.483775
+    },
+    "ROSEUSDT": {
+      "candle_time": 1789259700000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789260087.611105
+    },
+    "VANAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.614839
+    },
+    "ATHUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.616211
+    },
+    "DYMUSDT": {
+      "candle_time": 1789260600000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789260988.682366
+    },
+    "CROSSUSDT": {
+      "candle_time": 1789261200000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789261588.673238
+    },
+    "PHAROSUSDT": {
+      "candle_time": 1789261200000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789261588.673323
+    },
+    "ZILUSDT": {
+      "candle_time": 1789261500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789261897.690426
+    },
+    "BSVUSDT": {
+      "candle_time": 1789261500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789261897.6904662
+    },
+    "TAKEUSDT": {
+      "candle_time": 1789261500000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789261897.690699
+    },
+    "AUCTIONUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "STRONG",
+      "sent_at": 1789338065.964596
+    },
+    "IOTAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.606369
+    },
+    "MIRAUSDT": {
+      "candle_time": 1789262700000,
+      "direction": "DOWN",
+      "strength": "STRONG",
+      "sent_at": 1789263086.703277
+    },
+    "PIXELUSDT": {
+      "candle_time": 1789263000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789263389.724071
+    },
+    "BELUSDT": {
+      "candle_time": 1789263300000,
+      "direction": "UP",
+      "strength": "NORMAL",
+      "sent_at": 1789263697.213535
+    },
+    "APRUSDT": {
+      "candle_time": 1789338300000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338665.6491141
+    },
+    "RAYSOLUSDT": {
+      "candle_time": 1789335900000,
+      "direction": "UP",
+      "strength": "STRONG",
+      "sent_at": 1789336265.756126
+    },
+    "RIVERUSDT": {
+      "candle_time": 1789335900000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789336265.756326
+    },
+    "LTCUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.604008
+    },
+    "ETCUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.604067
+    },
+    "XLMUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.604383
+    },
+    "ONTUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6060889
+    },
+    "DOGEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6064682
+    },
+    "YFIUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.961869
+    },
+    "AAVEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.606671
+    },
+    "GRTUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6067898
+    },
+    "SFPUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.607154
+    },
+    "HOTUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.607275
+    },
+    "1000SHIBUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.607311
+    },
+    "LPTUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.608067
+    },
+    "ENSUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.609249
+    },
+    "IMXUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.60954
+    },
+    "MAGICUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.61045
+    },
+    "SUIUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9637618
+    },
+    "1000PEPEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.611317
+    },
+    "1000FLOKIUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.611359
+    },
+    "SEIUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.611677
+    },
+    "1000SATSUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.964397
+    },
+    "ONDOUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.612441
+    },
+    "STRKUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.612551
+    },
+    "AEVOUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.612594
+    },
+    "ENAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6128042
+    },
+    "NOTUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.612973
+    },
+    "BANANAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6134531
+    },
+    "NEIROUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.613672
+    },
+    "HMSTRUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.614017
+    },
+    "MOODENGUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6140978
+    },
+    "THEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.614431
+    },
+    "MEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6145868
+    },
+    "PENGUUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9660811
+    },
+    "AIXBTUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.615086
+    },
+    "PHAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.615427
+    },
+    "SUSDT": {
+      "candle_time": 1789338000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338364.119036
+    },
+    "FORMUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9673321
+    },
+    "PROMPTUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6163929
+    },
+    "OGUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.616437
+    },
+    "SOONUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.616647
+    },
+    "SOPHUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.968459
+    },
+    "NEWTUSDT": {
+      "candle_time": 1789338000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338364.120248
+    },
+    "TAUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.616995
+    },
+    "SLPUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6172988
+    },
+    "NOMUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.617981
+    },
+    "TURTLEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.618408
+    },
+    "UAIUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6185431
+    },
+    "SPACEUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.6188438
+    },
+    "OPNUSDT": {
+      "candle_time": 1789336800000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337164.619073
+    },
+    "RLCUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.611134
+    },
+    "RSRUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.611186
+    },
+    "GMXUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.611944
+    },
+    "CFXUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.611988
+    },
+    "IDUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.612023
+    },
+    "PLUMEUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.612267
+    },
+    "ALLUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.6123211
+    },
+    "MEGAUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.612535
+    },
+    "KATUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.6127958
+    },
+    "ARXUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.613145
+    },
+    "MARSCOINUSDT": {
+      "candle_time": 1789337100000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789337465.613174
+    },
+    "COMPUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.961681
+    },
+    "SNXUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9618292
+    },
+    "EGLDUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9628632
+    },
+    "STGUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.96348
+    },
+    "XVSUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9637198
+    },
+    "PENDLEUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.964
+    },
+    "XAIUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.964828
+    },
+    "MANTAUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9649029
+    },
+    "HEIUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9672692
+    },
+    "STOUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.968124
+    },
+    "WCTUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.968182
+    },
+    "CTKUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.968257
+    },
+    "RESOLVUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.968517
+    },
+    "TAIKOUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9685838
+    },
+    "TRUSTUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9714718
+    },
+    "FRAXUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.9715042
+    },
+    "GWEIUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.971679
+    },
+    "GRVTUSDT": {
+      "candle_time": 1789337700000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338065.971719
+    },
+    "MTLUSDT": {
+      "candle_time": 1789338000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338364.118749
+    },
+    "BROCCOLIF3BUSDT": {
+      "candle_time": 1789338000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338364.11918
+    },
+    "BLESSUSDT": {
+      "candle_time": 1789338000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338364.120306
+    },
+    "ZESTUSDT": {
+      "candle_time": 1789338000000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338364.120542
+    },
+    "ATUSDT": {
+      "candle_time": 1789338600000,
+      "direction": "DOWN",
+      "strength": "NORMAL",
+      "sent_at": 1789338965.091966
+    }
+  }
+}
